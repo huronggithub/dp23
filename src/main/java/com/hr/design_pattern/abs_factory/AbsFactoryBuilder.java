@@ -2,7 +2,6 @@ package com.hr.design_pattern.abs_factory;
 
 import com.hr.design_pattern.abs_factory.impl.ColorFactory;
 import com.hr.design_pattern.abs_factory.impl.SharpFactory;
-import com.hr.design_pattern.factory.ISharp;
 
 /**
  * @Description:

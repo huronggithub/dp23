@@ -1,7 +1,5 @@
 package com.hr.design_pattern.singleton;
 
-import java.time.Instant;
-
 /**
  * @Description:
  * @Author: hurong
